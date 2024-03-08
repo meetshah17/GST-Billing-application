@@ -1,4 +1,4 @@
-# Inventory-Management 
+# GST-Billing-application
 * Easily create invoices
 * Manage inventory
 * Keep books and track balances
